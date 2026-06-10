@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: aigerimsarseno-crypto/FNF-PsychEngine-Mobile-1.0.4
+  REPO_PATH: aigerimsarsen0-crypto/FNF-PsychEngine-Mobile-1.0.4-Archive
 
 jobs:
   get-commit-hash:
